@@ -1,0 +1,54 @@
+body {
+    background-color: khaki;
+}
+
+#defaultBodyPara {
+    font-size: xx-large;
+    font-family: sans-serif;
+}
+
+.welcomeMessage {
+    background-color: khaki;
+}
+
+.heading {
+    font-size: xx-large;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+.subHeading {
+    font-size: x-large;
+    font-family: monospace;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+.data {
+    font-size: large;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.highlighter {
+    background-color: #ddaf94;
+}
+
+#aboutBody {
+    text-align: center;
+    background-color: bisque;
+}
+
+.NameInAbout {
+    background-color: #ddaf94;
+    font-weight: bold;
+}
+
+.hlink {
+    color: black;
+}
+
+.hlink:hover {
+    color: bisque;
+    background-color: black;
+}

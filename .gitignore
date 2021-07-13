@@ -1,0 +1,9 @@
+# Visual Studio Code
+.vscode
+*.code-workspace
+
+# Personalized
+.*xbin*
+
+# Google Drive File Stream
+desktop.ini
